@@ -12,8 +12,8 @@ A Streamlit dashboard that visualizes daily screen time data and uses the Gemini
 ## How to Run
 
 1. Clone the repository and navigate into the project folder:
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/BHAVNEESH12/Mirai-Assignment-6
+   cd Mirai-Assignment-6
 
 2. Install dependencies:
    pip install -r requirements.txt
