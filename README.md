@@ -16,14 +16,10 @@ Life-OS turns 14 days of (synthetic) screen time data into a real SaaS-style
 dashboard, then hands that data to Gemini and asks it to coach you — bluntly,
 but constructively — on what to do instead of scrolling.
 
-<<<<<<< HEAD
----
-=======
+<<<<<<<
    Clone the repository and navigate into the project folder:
    git clone https://github.com/BHAVNEESH12/Mirai-Assignment-6
    cd Mirai-Assignment-6
-=======
----
 >>>>>>>
 
 ## ▸ Features
@@ -113,10 +109,8 @@ lifeos-dashboard/
 └── README.md
 ```
 
-<<<<<<< HEAD
-=======
+<<<<<<<
 4. Run the Streamlit app:
    streamlit run app.py
-=======
 >>>>>>>
    
