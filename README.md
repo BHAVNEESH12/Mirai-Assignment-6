@@ -1,7 +1,6 @@
 # 🧠 Life-OS — Wellbeing Dashboard
 
 ```
-$ whoami
 > a synthetic-data-powered, AI-coached, screen-time reality check
 
 $ status
