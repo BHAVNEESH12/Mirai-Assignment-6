@@ -1,50 +1,89 @@
 Date,App_Name,Category,Minutes_Used
-2026-07-20,VS Code,Coding,210
-2026-07-20,TikTok,Social Media,180
-2026-07-20,YouTube,Entertainment,120
-2026-07-20,Coursera,Education,45
-2026-07-21,Instagram,Social Media,140
-2026-07-21,VS Code,Coding,190
-2026-07-21,Netflix,Entertainment,150
-2026-07-21,Duolingo,Education,30
-2026-07-22,TikTok,Social Media,210
-2026-07-22,YouTube,Entertainment,90
-2026-07-22,VS Code,Coding,120
-2026-07-22,Udemy,Education,60
-2026-07-23,Instagram,Social Media,160
-2026-07-23,X,Social Media,90
-2026-07-23,VS Code,Coding,240
-2026-07-23,LeetCode,Education,50
-2026-07-24,TikTok,Social Media,240
-2026-07-24,Netflix,Entertainment,180
-2026-07-24,VS Code,Coding,80
-2026-07-25,Instagram,Social Media,190
-2026-07-25,YouTube,Entertainment,200
-2026-07-25,VS Code,Coding,60
-2026-07-26,TikTok,Social Media,220
-2026-07-26,Reddit,Social Media,110
-2026-07-26,Netflix,Entertainment,130
-2026-07-27,VS Code,Coding,310
-2026-07-27,GitHub,Coding,90
-2026-07-27,Duolingo,Education,40
-2026-07-27,Instagram,Social Media,45
-2026-07-28,VS Code,Coding,280
-2026-07-28,YouTube,Entertainment,80
-2026-07-28,X,Social Media,60
-2026-07-29,TikTok,Social Media,170
-2026-07-29,Instagram,Social Media,90
-2026-07-29,VS Code,Coding,200
-2026-07-29,LeetCode,Education,60
-2026-07-30,TikTok,Social Media,250
-2026-07-30,Netflix,Entertainment,160
-2026-07-30,VS Code,Coding,90
-2026-07-31,VS Code,Coding,300
-2026-07-31,Coursera,Education,90
-2026-07-31,Instagram,Social Media,50
-2026-08-01,TikTok,Social Media,210
-2026-08-01,YouTube,Entertainment,140
-2026-08-01,VS Code,Coding,110
-2026-08-02,Instagram,Social Media,130
-2026-08-02,TikTok,Social Media,120
-2026-08-02,VS Code,Coding,220
-2026-08-02,LeetCode,Education,45
+2026-08-04,Instagram,Social Media,28
+2026-08-04,VS Code,Coding,33
+2026-08-04,WhatsApp,Social Media,63
+2026-08-04,Reddit,Social Media,54
+2026-08-04,Khan Academy,Education,12
+2026-08-05,Instagram,Social Media,32
+2026-08-05,GitHub,Coding,89
+2026-08-05,TikTok,Social Media,46
+2026-08-05,Reddit,Social Media,34
+2026-08-05,Khan Academy,Education,24
+2026-08-05,Duolingo,Education,28
+2026-08-05,LeetCode,Coding,55
+2026-08-05,WhatsApp,Social Media,20
+2026-08-06,VS Code,Coding,63
+2026-08-06,Netflix,Entertainment,21
+2026-08-06,YouTube,Entertainment,20
+2026-08-06,WhatsApp,Social Media,44
+2026-08-06,X (Twitter),Social Media,26
+2026-08-06,Reddit,Social Media,42
+2026-08-07,Coursera,Education,12
+2026-08-07,WhatsApp,Social Media,55
+2026-08-07,Instagram,Social Media,38
+2026-08-07,Spotify,Entertainment,55
+2026-08-07,Duolingo,Education,29
+2026-08-07,TikTok,Social Media,43
+2026-08-07,Netflix,Entertainment,51
+2026-08-08,VS Code,Coding,5
+2026-08-08,TikTok,Social Media,52
+2026-08-08,Instagram,Social Media,67
+2026-08-08,Khan Academy,Education,9
+2026-08-08,Reddit,Social Media,63
+2026-08-08,WhatsApp,Social Media,69
+2026-08-09,Khan Academy,Education,19
+2026-08-09,WhatsApp,Social Media,59
+2026-08-09,VS Code,Coding,50
+2026-08-09,GitHub,Coding,17
+2026-08-09,TikTok,Social Media,79
+2026-08-09,X (Twitter),Social Media,45
+2026-08-10,LeetCode,Coding,47
+2026-08-10,YouTube,Entertainment,51
+2026-08-10,Netflix,Entertainment,35
+2026-08-10,WhatsApp,Social Media,33
+2026-08-10,TikTok,Social Media,61
+2026-08-11,Netflix,Entertainment,50
+2026-08-11,Khan Academy,Education,27
+2026-08-11,Spotify,Entertainment,31
+2026-08-11,X (Twitter),Social Media,57
+2026-08-11,WhatsApp,Social Media,47
+2026-08-11,LeetCode,Coding,71
+2026-08-11,Reddit,Social Media,43
+2026-08-11,YouTube,Entertainment,29
+2026-08-12,Duolingo,Education,30
+2026-08-12,Spotify,Entertainment,25
+2026-08-12,TikTok,Social Media,63
+2026-08-12,Instagram,Social Media,47
+2026-08-12,VS Code,Coding,28
+2026-08-12,X (Twitter),Social Media,44
+2026-08-13,Coursera,Education,27
+2026-08-13,Spotify,Entertainment,32
+2026-08-13,Duolingo,Education,34
+2026-08-13,WhatsApp,Social Media,61
+2026-08-13,VS Code,Coding,63
+2026-08-13,Instagram,Social Media,27
+2026-08-13,TikTok,Social Media,38
+2026-08-13,YouTube,Entertainment,42
+2026-08-14,Spotify,Entertainment,47
+2026-08-14,Instagram,Social Media,26
+2026-08-14,VS Code,Coding,58
+2026-08-14,WhatsApp,Social Media,60
+2026-08-14,Duolingo,Education,26
+2026-08-14,X (Twitter),Social Media,58
+2026-08-15,X (Twitter),Social Media,83
+2026-08-15,YouTube,Entertainment,57
+2026-08-15,GitHub,Coding,5
+2026-08-15,Duolingo,Education,12
+2026-08-15,Khan Academy,Education,12
+2026-08-15,Instagram,Social Media,68
+2026-08-16,TikTok,Social Media,47
+2026-08-16,VS Code,Coding,40
+2026-08-16,Spotify,Entertainment,70
+2026-08-16,GitHub,Coding,27
+2026-08-16,Duolingo,Education,18
+2026-08-17,Duolingo,Education,31
+2026-08-17,LeetCode,Coding,67
+2026-08-17,VS Code,Coding,76
+2026-08-17,Reddit,Social Media,53
+2026-08-17,WhatsApp,Social Media,48
+2026-08-17,Netflix,Entertainment,22

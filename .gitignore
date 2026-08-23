@@ -1,1 +1,22 @@
+# secrets
 .env
+.streamlit/secrets.toml
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# streamlit
+.streamlit/
+
+# os junk
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
