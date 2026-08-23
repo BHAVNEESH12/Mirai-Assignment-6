@@ -106,9 +106,11 @@ st.sidebar.divider()
 st.sidebar.markdown("## 🔑 Gemini API")
 api_key_input = st.sidebar.text_input(
     "Gemini API Key (optional)",
-    value=os.environ.get("GEMINI_API_KEY", ""),
+    value="",
     type="password",
-    help="Falls back to the GEMINI_API_KEY environment variable / .env file if left blank.",
+    placeholder="Using key from secrets" if os.environ.get("GEMINI_API_KEY") else "Paste your Gemini API key",
+    help="Leave blank to use the GEMINI_API_KEY set in secrets/.env. Only fill this in to override it.",
+)
 )
 
 st.sidebar.divider()
