@@ -1,5 +1,7 @@
 # 🧠 Life-OS — Wellbeing Dashboard
 
+**🔴 Live demo:** https://life-os-wellbeingdashboard.streamlit.app/
+
 ```
 > a synthetic-data-powered, AI-coached, screen-time reality check
 
@@ -17,9 +19,12 @@ but constructively — on what to do instead of scrolling.
 <<<<<<< HEAD
 ---
 =======
-1. Clone the repository and navigate into the project folder:
+   Clone the repository and navigate into the project folder:
    git clone https://github.com/BHAVNEESH12/Mirai-Assignment-6
    cd Mirai-Assignment-6
+=======
+---
+>>>>>>>
 
 ## ▸ Features
 
@@ -112,3 +117,6 @@ lifeos-dashboard/
 =======
 4. Run the Streamlit app:
    streamlit run app.py
+=======
+>>>>>>>
+   
