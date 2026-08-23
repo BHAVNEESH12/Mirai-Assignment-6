@@ -111,7 +111,6 @@ api_key_input = st.sidebar.text_input(
     placeholder="Using key from secrets" if os.environ.get("GEMINI_API_KEY") else "Paste your Gemini API key",
     help="Leave blank to use the GEMINI_API_KEY set in secrets/.env. Only fill this in to override it.",
 )
-)
 
 st.sidebar.divider()
 st.sidebar.caption("Life-OS · MirAI School of Technology · AI Builder Track")
