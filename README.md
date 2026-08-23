@@ -20,7 +20,6 @@ but constructively — on what to do instead of scrolling.
 1. Clone the repository and navigate into the project folder:
    git clone https://github.com/BHAVNEESH12/Mirai-Assignment-6
    cd Mirai-Assignment-6
->>>>>>> 94c6486eba37661a9255760659e769bb76a75f4f
 
 ## ▸ Features
 
@@ -74,19 +73,6 @@ Open **http://localhost:8501** and you're live.
 
 ---
 
-## ▸ How the AI integration actually works
-
-```
-$ cat ai_flow.txt
-```
-
-1. **The Data Bridge** (`summarize_day_for_ai()`) — groups the selected day's rows by `Category` and by `App_Name`, sums `Minutes_Used`, and serializes it to compact JSON. The model never sees a raw pandas DataFrame.
-2. **The System Prompt** (`build_coach_prompt()`) — an f-string that injects that JSON and instructs Gemini to act as "Coach O": a holistic life coach who must name a specific real-world replacement activity (a walk, meal-prepping, calling a friend) instead of just saying "use your phone less."
-3. **The Call** — `google-genai`'s `client.models.generate_content(model="gemini-2.5-flash", ...)`.
-4. **The Render** — the verdict is dropped into `st.info` (under goal), `st.warning` (over goal), or `st.error` (way over goal — 90+ min past your target).
-
----
-
 ## ▸ Deploying (Streamlit Community Cloud)
 
 ```
@@ -126,4 +112,3 @@ lifeos-dashboard/
 =======
 4. Run the Streamlit app:
    streamlit run app.py
->>>>>>> 94c6486eba37661a9255760659e769bb76a75f4f
