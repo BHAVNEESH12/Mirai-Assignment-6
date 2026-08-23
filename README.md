@@ -103,9 +103,3 @@ lifeos-dashboard/
 │   └── secrets.toml.example        # template for Streamlit Cloud secrets
 └── README.md
 ```
-
-
-## Run the Streamlit app:
-'''
-   streamlit run app.py
-'''
